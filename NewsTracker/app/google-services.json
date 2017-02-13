@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "910163234404",
+    "firebase_url": "https://projectnewstracker.firebaseio.com",
+    "project_id": "projectnewstracker",
+    "storage_bucket": "projectnewstracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910163234404:android:fc0ebf9bd3286f4a",
+        "android_client_info": {
+          "package_name": "com.mdiapps.mdi.newstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910163234404-s6761muit85750u4oko6087apfkc51f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxH6c4k_Gccggnc2wDvH_ZjdR5mpr5ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

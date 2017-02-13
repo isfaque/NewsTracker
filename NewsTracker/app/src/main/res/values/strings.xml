@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">News Tracker</string>
+
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+
+    <string name="news_1">ABC News</string>
+    <string name="news_2">ABC News</string>
+    <string name="news_3">ABC News</string>
+    <string name="news_4">ABC News</string>
+    <string name="news_5">ABC News</string>
+    <string name="news_6">ABC News</string>
+    <string name="news_7">ABC News</string>
+    <string name="news_8">ABC News</string>
+    <string name="news_9">ABC News</string>
+    <string name="news_10">ABC News</string>
+    <string name="news_11">ABC News</string>
+    <string name="news_12">ABC News</string>
+    <string name="news_13">ABC News</string>
+    <string name="news_14">ABC News</string>
+    <string name="news_15">ABC News</string>
+    <string name="news_16">ABC News</string>
+    <string name="news_17">ABC News</string>
+    <string name="news_18">ABC News</string>
+    <string name="news_19">ABC News</string>
+    <string name="news_20">ABC News</string>
+    <string name="news_21">ABC News</string>
+    <string name="news_22">ABC News</string>
+    <string name="news_23">ABC News</string>
+    <string name="news_24">ABC News</string>
+
+
+    <string-array name="noticelist_date">
+        <item>$10</item>
+        <item>$12</item>
+        <item>$13</item>
+        <item>$15</item>
+        <item>$18</item>
+        <item>$16</item>
+        <item>$14</item>
+        <item>$11</item>
+    </string-array>
+
+    <string-array name="news_source_title">
+        <item>ABC News (AU)</item>
+        <item>ABC News (AU)</item>
+        <item>ABC News (AU)</item>
+        <item>ABC News (AU)</item>
+        <item>ABC News (AU)</item>
+    </string-array>
+
+    <string-array name="news_source_name">
+        <item>abc_news_au_s</item>
+        <item>abc_news_au_s</item>
+        <item>abc_news_au_s</item>
+        <item>abc_news_au_s</item>
+        <item>abc_news_au_s</item>
+    </string-array>
+
+    <string-array name="news_source_description">
+        <item>Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</item>
+        <item>Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</item>
+        <item>Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</item>
+        <item>Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</item>
+        <item>Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</item>
+    </string-array>
+
+    <string-array name="news_source_icon">
+        <item>abc_news_au</item>
+        <item>abc_news_au</item>
+        <item>abc_news_au</item>
+        <item>abc_news_au</item>
+        <item>abc_news_au</item>
+    </string-array>
+
+
+    <string-array name="noticelist_title">
+        <item>Dave and Busters</item>
+        <item>Double Tree by Hilton San Diego</item>
+        <item>Dave and Busters</item>
+        <item>Double Tree by Hilton San Diego</item>
+        <item>Dave and Busters</item>
+        <item>Double Tree by Hilton San Diego</item>
+        <item>Dave and Busters</item>
+        <item>Double Tree by Hilton San Diego</item>
+    </string-array>
+
+    <string-array name="noticelist_detail">
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+        <item>As soon as the initiation stage got over, the masterminds became active and started working. They put their sleeves up, gathered their tools and started fitting the pieces together. Gathering study materials, finding roommates, asking questions, knowing teachers – they left no stones unturned in building the virtual forms of colleges from ground up.</item>
+    </string-array>
+
+</resources>
